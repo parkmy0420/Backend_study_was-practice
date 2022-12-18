@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54bd1b6b-b91e-4b33-b3bd-cfaaec56945b" name="Changes" comment="STEP1 계산기 웹 프로그램 구현">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ClientRequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="54bd1b6b-b91e-4b33-b3bd-cfaaec56945b" name="Changes" comment="STEP2 계산기 웹 프로그램 구현">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CustomWebApplicationServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CustomWebApplicationServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +158,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671007199370</updated>
       <workItem from="1671007200799" duration="15064000" />
-      <workItem from="1671355517166" duration="2846000" />
+      <workItem from="1671355517166" duration="3504000" />
     </task>
     <task id="LOCAL-00001" summary="STEP1 계산기 웹 프로그램 구현">
       <created>1671356541684</created>
@@ -169,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671356541684</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="STEP2 계산기 웹 프로그램 구현">
+      <created>1671360028133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671360028133</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="STEP1 계산기 웹 프로그래 구현" />
     <MESSAGE value="STEP1 계산기 웹 프로그램 구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="STEP1 계산기 웹 프로그램 구현" />
+    <MESSAGE value="STEP2 계산기 웹 프로그램 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="STEP2 계산기 웹 프로그램 구현" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
