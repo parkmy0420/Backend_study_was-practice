@@ -1,2 +1,15 @@
-package org.example;public class QueryStringTest {
+package org.example;
+
+import org.junit.jupiter.api.Test;
+import static org.assertj.core.api.Assertions.assertThat;
+
+public class QueryStringTest {
+    //operand1=11
+    @Test
+    void createTest() {
+        QueryString queryString = new QueryString("operand1", "11");
+        // querystring key value가 하나의 형태를 가지는 객체 -> operand1=11 -> so, 여러개를 만드려면 querystrings -> list
+
+        assertThat(queryString).isNotNull();
+    }
 }

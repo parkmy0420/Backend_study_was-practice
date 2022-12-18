@@ -1,6 +1,8 @@
-package org.example.calculate;
+package org.example.calculator.tobe;
 
-public class MultiplicationOperator implements NewArithmeticOperator {
+import org.example.calculator.domain.PositiveNumber;
+
+public class MultiplicationOperator implements ArithmeticOperator {
     @Override
     public boolean supports(String operator) {
         return "*".equals(operator);
